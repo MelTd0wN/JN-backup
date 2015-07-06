@@ -99,7 +99,7 @@ nowhere?<NOD<END
 #0504
 <FLJ0126:0505<FL+0126<KEY<MSG...Woah.<NOD
 I had the strangest sense of
-d?j? vu, just now.<NOD Weird.<NOD<END
+d閖?vu, just now.<NOD Weird.<NOD<END
 #0505
 <KEY<MSGYou smell kinda like garbage.<NOD
 Are you positive you didn't come
@@ -493,7 +493,7 @@ in the open blue sea, after all.<NOD
 Just because one little pond
 has to drain doesn't mean there
 isn't any more water!<NOD<CLR
-......<NOD<CLR测试测试试验
+......<NOD<CLRWell, anyway, if we never meet
 again I want you to have this
 to remember us by.<NOD You can
 burn some in small quantities
